@@ -1,6 +1,6 @@
 {
   "name": "process-launcher",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "small package for spawning a process, restarting it if it fails and logging its output ",
   "main": "lib/processLauncher.js",
   "directories": {
